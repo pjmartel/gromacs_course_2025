@@ -1,4 +1,4 @@
-title                   = PDI_4ekz (AMBER14sb)
+title                   = PDI in Water - Production 1ns (AMBER99SB)
 ; Run parameters
 integrator              = md        ; leap-frog integrator
 tinit                    = 0
