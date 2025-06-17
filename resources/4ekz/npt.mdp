@@ -1,4 +1,4 @@
-title		= OPLS Lysozyme NPT equilibration 
+title		= PDI in water -  NPT equilibration 
 define		= -DPOSRES	; position restrain the protein
 ; Run parameters
 integrator	= md		; leap-frog integrator
