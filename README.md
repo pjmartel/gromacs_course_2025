@@ -6,6 +6,6 @@ Day 2 - MD simulations of PDI (Protein Disulphide Isomare) in Water
 Colab Notebooks:
 
 
-* [MD simulatiuons of PDI in Water](https://colab.research.google.com/drive/1lVawchvGVwwOqto6MMhJpUXKB5iQtBcs?usp=sharing
+* [MD simulatiuons of PDI in Water](https://colab.research.google.com/drive/1lVawchvGVwwOqto6MMhJpUXKB5iQtBcs?usp=sharing)
 
 
